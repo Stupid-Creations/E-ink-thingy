@@ -1,2 +1,2 @@
 # E-ink-thingy
-Custom E reader :3
+My attempt at making a (mostly) functional E-reader! 
