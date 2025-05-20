@@ -19,4 +19,5 @@ After this ordeal, I realized that my HTML parser was able to only deal with the
 ![a broken html parser](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6fae25f4e452a0b4bf9ced82d558b286988bf749_image.png)
 
 The broken HTML parser broken HTML parsing some HTML </3
+
 **Time spent: 3.5 hours** 
