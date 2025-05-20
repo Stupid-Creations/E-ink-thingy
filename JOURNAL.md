@@ -16,6 +16,7 @@ Seeing that an implementation exists, I started making a basic HTML parser on my
 
 After this ordeal, I realized that my HTML parser was able to only deal with the one specific file I'd tested it on, and started to add ways to generalize it, but now it's 11 PM and my brain is on strike </3. I'll look at this tomorrow. Hoping to get a very very basic HTML file rendered from a zip on the sprig by tomorrow. 
 
-![enter image description here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6fae25f4e452a0b4bf9ced82d558b286988bf749_image.png)
+![a broken html parser](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6fae25f4e452a0b4bf9ced82d558b286988bf749_image.png)
+
 The broken HTML parser broken HTML parsing some HTML </3
 **Time spent: 3.5 hours** 
